@@ -3,6 +3,8 @@ import java.util.List;
 
 /**
  * Created by sami- on 29/09/2017.
+ *
+ * This class describes on cell of the grid
  */
 public class Cell {//list of added value, recorded to allow backtracking
     private int i;
